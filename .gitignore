@@ -1,10 +1,9 @@
 # created by virtualenv automatically
 .idea
 .vscode
-pycache
+__pycache__/
 .Ds_Store
 bin
 lib
-virtualenv
-picturesforbot
-users_pic
+venv/
+media/
